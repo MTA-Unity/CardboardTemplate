@@ -1,4 +1,4 @@
-# Unity101-5-Cardboard
+# Cardboard VR Template Project
 Google Cardboard VR Projects Template for The Academic College of Tel Aviv–Yaffo Unity 101 course.
 
 ## How to use this project?
